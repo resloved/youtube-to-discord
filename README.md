@@ -1,7 +1,7 @@
 # youtube-to-discord
 Push new videos from you favorite youtube channel to your [discord](https://discordapp.com/) server.
 
-##Usage
+## Usage
 Videocheck requires:
 
 * CHAN_ID as the ID of the youtube channel you would like to check
@@ -17,7 +17,7 @@ After all of the login requirements are set, all you have to do is run the bot f
 
 If you would like the bot to check more/less often just change the 'WAIT' variable.
 
-##To Note
+## To Note
 This repo was remade becuase the previous one contained sensitive information.
 
 **Author:** Benjamin Friesen
